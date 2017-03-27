@@ -1,0 +1,138 @@
+#main-page{
+	margin-top:0px;
+	margin-left:-8px;
+	margin-right:80px;
+	margin-bottom:00px;
+	width:52%;
+	height:13%;
+	text-align:left;
+	border:2px solid blue;
+	border-color:#4867aa;
+	border-bottom-color:#4867aa;
+	border-right-color:#4867aa;
+	border-left-color:#4867aa;
+	border-top-color:#4867aa;
+	background-color: #4867aa;
+}
+
+#email{
+	margin-top:-72px;
+	margin-left:675px;
+	margin-right:75px;
+	margin-bottom:50px;
+	width:25%;
+	height:100%;
+	text-align:left;
+	border:2px solid blue;
+	border-color:#4867aa;
+	border-bottom-color:#4867aa;
+	border-right-color:#4867aa;
+	border-left-color:#4867aa;
+	border-top-color:#4867aa;
+	background-color: #4867aa;
+
+}
+#password{
+	margin-top:-76px;
+	margin-left:171px;
+	margin-right:50px;
+	margin-bottom:50px;
+	width:95%;
+	height:100%;
+	text-align:left;
+	border:2px solid blue;
+	border-color:#4867aa;
+	border-bottom-color:#4867aa;
+	border-right-color:#4867aa;
+	border-left-color:#4867aa;
+	border-top-color:#4867aa;
+	background-color: #4867aa;
+
+}
+#login{
+	margin-top:-96px;
+	margin-left:162px;
+	margin-bottom:100px;
+	margin-right:80px;
+	width:217%;
+	height:100%;
+	text-align:left;
+	border:2px solid blue;
+	border-color: #4867aa;
+	border-bottom-color: #4867aa;
+	border-right-color: #4867aa;
+	border-left-color: #4867aa;
+	border-top-color: #4867aa;
+	background-color: #4867aa;
+
+}
+#fbhelpsyou{
+	margin-top: 57px;
+	margin-left: -1020px;
+	margin-bottom: 0px;
+	margin-right:552px;
+	width:210%;
+	height: 676%;
+	text-align:center;
+	border:3px; 
+	border-color:#dfe3ee;
+	border-right-color:#dfe3ee;
+	border-left-color: #dfe3ee;
+	border-top-color: #dfe3ee;
+	border-bottom-color: #dfe3ee;
+	background-color: #e6e6ff; 
+	text-align: center;
+	color:#000066;
+}
+#mainform{
+	margin-top: -528px;
+	margin-left: -325px;
+	margin-bottom: 0px;
+	margin-right:552px;
+	width:200%;
+	height: 675%;
+	text-align:left;
+	border:3px; 
+	border-color:#dfe3ee;
+	border-right-color:#dfe3ee;
+	border-left-color: #dfe3ee;
+	border-top-color: #dfe3ee;
+	border-bottom-color: #dfe3ee;
+	background-color: #e6e6ff; 
+	text-align: left;
+	
+}
+#f1{
+
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+#f2{
+
+    width: 60%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+#button{
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	border-radius: 4px;
+}
+
